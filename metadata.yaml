@@ -1,0 +1,30 @@
+_repo: Language-of-Flowers_31591
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31591-h/images/ill_cover.jpg
+creator:
+  author:
+    agent_name: Greenaway, Kate
+    alias: Greenaway, K. (Kate)
+    birthdate: 1846
+    deathdate: 1901
+    gutenberg_agent_id: '6307'
+    url: http://www.gutenberg.org/2009/agents/6307
+    wikipedia: http://en.wikipedia.org/wiki/Kate_Greenaway
+description: ''
+gutenberg_issued: '2010-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31591'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NC'
+- !lcsh 'Flower language'
+- !lcsh 'Flowers -- Poetry'
+- !lcc 'GR'
+title: Language of Flowers
+url: http://www.gutenberg.org/ebooks/31591
