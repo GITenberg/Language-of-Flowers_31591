@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6307
     wikipedia: http://en.wikipedia.org/wiki/Kate_Greenaway
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31591#Language-of-Flowers
 gutenberg_issued: '2010-03-10'
 gutenberg_type: Text
 identifiers:
